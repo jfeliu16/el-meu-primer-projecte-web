@@ -5,3 +5,11 @@ body {
 }
 
 h1 { text-align: center; }
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #eee;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
